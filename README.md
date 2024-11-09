@@ -1,1 +1,1 @@
-# L0124022_LutfiyahIstiana_LearningLabs
+Website  ini merupakan penugasan project akhir dari Frontend Learning Labs 2024. Website ini mengambil tema "Kota" dengan kota yang dijadikan sebagai bahan materi dalam website adalah Kabupaten Sragen. Pada website ini terdapat beberapa hal penting yang disampaikan mengenai Kabupaten Sragen, yaitu pengenalan singkat, sejarah, wisata, dan sebuah form sederhana untuk kritik dan saran.
